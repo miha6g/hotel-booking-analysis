@@ -24,8 +24,14 @@
 - Для бронирований с большим lead time (более 90 дней) рассмотреть введение предоплаты.
 - Отдельно анализировать и контролировать бронирования из канала Groups.
 
+## Дашборд
+https://public.tableau.com/app/profile/mikhail.filippov/viz/project_17923311179880/Dashboard1
+
 ## Стек
 - Python
 - pandas
 - matplotlib / seaborn
 - statsmodels (статистические тесты)
+- tableau
+
+
